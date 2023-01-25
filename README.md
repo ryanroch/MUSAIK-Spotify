@@ -56,19 +56,3 @@ cd back-end
 npm start
 ```
 Now MUSAIK is running on http://localhost:8080.
-
-### Core team members
-- [Ahmad Almesned](https://github.com/Ahmadhcs)
-- [Alima Zhagufarova](https://github.com/alima2104)
-- [Chinedu Nnorom](https://github.com/chinedunnorom)
-- [Jeongin Lee](https://github.com/jjeongin)
-- [Ryan Rochmanofenna](https://github.com/ryanroch)
-- [Zain Faruqi](https://github.com/zain-faruqi)
-
-### History and Collaboration
-This project has started from [Zain](https://github.com/zain-faruqi)'s idea to build a social platform for music lovers where listners can recommend musics they love and connect with people who have similar taste.
-
-* [Contribution Guide for Our Core Team](CONTRIBUTING.md)
-
-### Resources
-* [UX Design Guide](UX-DESIGN.md)
